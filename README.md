@@ -2,6 +2,13 @@
 
 This repository contains code for parsing resumes (CVs) using Spacy 3 and Scikit-learn. The goal is to extract information such as names, contact details, education, work experience, and other relevant details from resumes in a structured format.
 
+
+
+
+https://github.com/SShadabHussain/Resume-Parsing/assets/93070562/7f65b1e7-7b11-4d11-834c-453dea46334c
+
+
+
 ## Installation
 
 To get started, make sure you have the required libraries installed. You can install them using pip:
